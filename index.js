@@ -1,5 +1,1 @@
-const news =0
-console.log(news)
-
-
-
+let queery = document.querySelector('footer')
